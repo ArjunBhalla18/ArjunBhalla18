@@ -1,16 +1,16 @@
 # Hi, I'm Arjun Bhalla
 
-AI & Full-Stack Developer | B.Tech CSE (AI/ML) @ Manipal University Jaipur
-AI/ML | Cloud | GenAI | Agentic AI  
-Building intelligent systems
+AI & Full-Stack Developer | B.Tech CSE (AI/ML) @ Manipal University Jaipur  
+AI/ML | Cloud | GenAI | Agentic AI    
+Building intelligent systems  
 
 ---
 
 ## About Me
 
-Developing AI-powered Intelligent Systems with real-world applications
-Focused on Generative AI, LLMs, Agentic AI systems and Computer Vision
-Learning Cloud technologies (AWS & Azure)
+Developing AI-powered Intelligent Systems with real-world applications  
+Focused on Generative AI, LLMs, Agentic AI systems and Computer Vision  
+Learning Cloud technologies (AWS & Azure)  
 
 ---
 
@@ -52,7 +52,7 @@ Learning Cloud technologies (AWS & Azure)
 ## Certifications
 
 * AWS Certified Cloud Practitioner (CLF C02)
-* Microsft Certified Azure AI Fundamentals (AI-900)
+* Microsoft Certified Azure AI Fundamentals (AI-900)
 * DeepLearning.AI Machine Learning Specialization
 
 ---
