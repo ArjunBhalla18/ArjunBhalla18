@@ -1,12 +1,16 @@
 # Hi, I'm Arjun Bhalla
 
-B.Tech 3rd year CSE (AI/ML) student @ Manipal University Jaipur (CGPA: 8.62)  
-AI/ML | Cloud | GenAI | Agentic AI 
+AI & Full-Stack Developer | B.Tech CSE (AI/ML) @ Manipal University Jaipur
+AI/ML | Cloud | GenAI | Agentic AI  
+Building intelligent systems
 
 ---
 
 ## About Me
 
+Developing AI-powered Intelligent Systems with real-world applications
+Focused on Generative AI, LLMs, Agentic AI systems and Computer Vision
+Learning Cloud technologies (AWS & Azure)
 
 ---
 
@@ -42,6 +46,14 @@ AI/ML | Cloud | GenAI | Agentic AI
 * Dean’s List for Academic Excellence
 * Student Excellence Award
 * SIH 2025 – Selected among 500+ teams
+
+---
+
+## Certifications
+
+* AWS Certified Cloud Practitioner (CLF C02)
+* Microsft Certified Azure AI Fundamentals (AI-900)
+* DeepLearning.AI Machine Learning Specialization
 
 ---
 
